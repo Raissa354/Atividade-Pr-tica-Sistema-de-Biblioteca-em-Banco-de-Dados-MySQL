@@ -117,6 +117,11 @@ O projeto representa um sistema simples de biblioteca, onde é possível cadastr
 
 <img width="988" height="100" alt="Captura de tela 2026-10-07 142833" src="https://github.com/user-attachments/assets/7feb53c1-fef2-4231-9c5c-7a74e4d673d8" />
 
+
+
+
+<img width="398" height="129" alt="Captura de tela 2026-10-07 155830" src="https://github.com/user-attachments/assets/e63690ff-4e59-4786-948e-ed8aa15c1abb" />
+
 <img width="280" height="97" alt="Captura de tela 2026-10-07 142858" src="https://github.com/user-attachments/assets/11290ea9-4216-4af5-ad04-76578fbe0389" />
 
 <img width="734" height="78" alt="Captura de tela 2026-10-07 142937" src="https://github.com/user-attachments/assets/50557273-a28d-41eb-a6eb-39263ffe0b04" />
